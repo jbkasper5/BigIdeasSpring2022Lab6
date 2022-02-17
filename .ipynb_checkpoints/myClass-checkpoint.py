@@ -3,8 +3,8 @@ class Repo:
         self.owner = "Jake"
         self.contributors = []
         self.creationDate = {
-            "Month": "February"
-            "Day": 16
+            "Month": "February",
+            "Day": 16,
             "Year": 2022
         }
     
